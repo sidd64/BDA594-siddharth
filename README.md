@@ -6,7 +6,7 @@
 
 [canvas link to BDA 594](https://sdsu.instructure.com/courses/113151)
 
-Definition of Big Data: Big Data pertains to huge volumes of data that can be analysed to uncover patterns and trends, which in turn can be used to produce meaningful information. 
+**Definition of Big Data**: Big Data pertains to huge volumes of data that can be analysed to uncover patterns and trends, which in turn can be used to produce meaningful information. 
 
 
 
