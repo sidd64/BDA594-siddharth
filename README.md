@@ -11,4 +11,4 @@ Definition of Big Data: Big Data pertains to huge volumes of data that can be an
 
 
 
-![WhatsApp Image 2022-08-31 at 12 13 32 AM](https://user-images.githubusercontent.com/112432385/187616652-da7b1592-009b-4da6-a982-ebaccb1cb89b.jpeg)
+<img src="https://user-images.githubusercontent.com/112432385/187616652-da7b1592-009b-4da6-a982-ebaccb1cb89b.jpeg" width="700" height="350">
